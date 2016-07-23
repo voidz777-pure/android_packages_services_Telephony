@@ -26,11 +26,11 @@
   <string name="blacklist_summary_disabled">Wyłączona</string>
   <string name="blacklist_summary">Nie będziesz otrzymywał przychodzących połączeń ani wiadomości od numerów na liście zablokowanych</string>
   <!-- Setting title for the flip action setting. -->
-  <string name="flip_action_title">Flip action</string>
+  <string name="flip_action_title">Akcja odwrócenia</string>
   <!-- Dialog title of the flip action setting. -->
-  <string name="flip_action_dialog_title">Flip device to\u2026</string>
+  <string name="flip_action_dialog_title">Obróć urządzenie, by\u2026</string>
   <!-- Setting summary for the flip action setting. -->
-  <string name="flip_action_summary">Flipping the phone down will <xliff:g id="action">%s</xliff:g></string>
+  <string name="flip_action_summary">Odwrócenie telefonu spowoduje <xliff:g id="action">%s</xliff:g></string>
   <!-- Values for flip action array entries -->
   <string name="entry_do_nothing">Nie rób nic</string>
   <string name="entry_mute_ringer">Wycisz dzwonek</string>
